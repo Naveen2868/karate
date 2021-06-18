@@ -1,0 +1,3 @@
+Hi this is first line adding in to file
+Hi this is second line adding in to file
+Hi this is third line adding in to file.
